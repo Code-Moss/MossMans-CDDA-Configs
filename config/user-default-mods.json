@@ -1,0 +1,5 @@
+{
+  "type": "MOD_INFO",
+  "id": "user:default",
+  "dependencies": [ "dda", "no_npc_food", "stats_through_kills", "generic_guns", "sees_player_retro", "Graphical_Overmap" ]
+}
